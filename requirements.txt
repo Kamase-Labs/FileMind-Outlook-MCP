@@ -1,0 +1,21 @@
+# Core MCP Framework
+fastmcp==2.7.0
+
+# Configuration
+pydantic==2.9.2
+pydantic-settings==2.6.1
+
+# Database
+asyncpg==0.30.0
+
+# HTTP Client
+httpx==0.28.1
+
+# Encryption
+cryptography==44.0.0
+
+# JWT (for future direct auth)
+PyJWT==2.10.1
+
+# ASGI Server
+uvicorn==0.34.0

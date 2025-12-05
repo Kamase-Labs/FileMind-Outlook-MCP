@@ -1,0 +1,8 @@
+[project]
+name = "filemind-outlook-mcp"
+version = "1.0.0"
+description = "Read-only Outlook email access via Microsoft Graph API"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
